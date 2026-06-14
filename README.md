@@ -12,7 +12,7 @@ End-to-end data science project for sales forecasting and profit classification 
 
 ## Tech Stack
 
-Python (Pandas, Scikit-learn, Matplotlib, Seaborn) | Power BI
+Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 ## Dataset
 
